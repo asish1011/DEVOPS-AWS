@@ -1,2 +1,3 @@
-# DEVOPS-AWS
-This Repo contains the Projects and support file of the project. AWS is currently the largest cloud provider in the world adding more more data centers and service frequently. 
+# DEVOPS-AWS-VPC
+In this project we create a VPC in AWS and launch a web site in a privet subnet instance
+
